@@ -1,1 +1,7 @@
 @charset "UTF-8";
+/**
+* 編集画面用CSS
+*/
+.editor-styles-wrapper body.custom-background {
+  min-height: 100vh;
+}/*# sourceMappingURL=editor.css.map */
