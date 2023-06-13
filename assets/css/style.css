@@ -1,3 +1,43 @@
 body.custom-background {
   min-height: 100vh;
-}/*# sourceMappingURL=style.css.map */
+}
+
+header#site-header {
+  background-color: rgba(255, 255, 255, 0.4);
+}
+header#site-header a {
+  color: #ffffff;
+}
+
+.global-nav-list>li:before {
+    border-bottom: 1px solid #ffffff;
+}
+
+html body {
+	color: #bbb;
+}
+
+html body a{
+	color: #fff;
+}
+
+.home footer{
+	display:none;
+}
+
+.bubble, .icon {
+    height: calc((100dvh - 50px) / 2);
+}
+
+#main{
+	position:relative;
+}
+
+#main img {
+	padding: 5rem;
+}
+
+#main a{
+	display: block;
+}
+/*# sourceMappingURL=style.css.map */
